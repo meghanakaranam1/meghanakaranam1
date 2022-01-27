@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meghanakaranam1
+- 👋 Hi, I’m Meghana Karnam
 - 👀 I’m interested in Math,Machine Learning and everything in between
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on reasearch projects on Deep learning
